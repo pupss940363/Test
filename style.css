@@ -4,6 +4,11 @@
   /*	border: solid 1px black; */
 }
 
+@font-face {
+  font-family: 華康竹風體W4;
+  src: url(https://drive.google.com/file/d/1FZuHAzisCLDSizJjp_47zC5b5J32VCZx/view?usp=sharing);
+}
+
 html, body {
   margin: 0;
   padding: 0;
