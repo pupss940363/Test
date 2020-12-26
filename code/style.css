@@ -87,7 +87,7 @@ a {
   color: #343434;
 }
 
-#changebutton1:hover, #changebutton2:hover, #changebutton3:hover, #changebutton4:hover, .changebutton5:hover {
+#changebutton1:hover, #changebutton2:hover, #changebutton3:hover, #changebutton4:hover, #changebutton5:hover {
   color: #FFD23F;
   transition-duration: 0.5s;
 }
