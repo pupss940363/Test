@@ -3,11 +3,7 @@
 * {
   /*	border: solid 1px black; */
 }
-  @font-face {
-     font-family: 華康竹風體W4;
-     src: url(竹風體W4.woff),
-     src: url(竹風體W4.ttc);
-  }
+
 html, body {
   margin: 0;
   padding: 0;
