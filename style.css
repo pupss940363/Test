@@ -15,7 +15,8 @@ html, body {
   padding: 0;
   height: 100%;
   border: none;
-  background-color: #F0EFF4;
+  /*background-color: #F0EFF4;*/
+  background-color:red;
 }
 
 .avbar-scroll.navbar-fixed-top {
