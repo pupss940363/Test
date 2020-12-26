@@ -4,10 +4,11 @@
   /*	border: solid 1px black; */
 }
 
-@font-face {
+/*@font-face {
   font-family:myFirstFont;
   src: url(http://example.com/fonts/Gentium.woff);
 }
+*/
 
 html, body {
   margin: 0;
@@ -46,7 +47,7 @@ html, body {
   transition-duration: 0.5s;
   -webkit-box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.3);
   box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.3);
-  font-family:myFirstFont;
+  font-family:"SimSun";
   font-size: 25px;
   font-weight: bold;
   padding-top: 10px;
