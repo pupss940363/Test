@@ -6,7 +6,7 @@
 
 @font-face {
   font-family:myFirstFont;
-  src: url(sansation_bold.woff);
+  src: url(http://example.com/fonts/Gentium.woff);
 }
 
 html, body {
