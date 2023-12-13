@@ -484,7 +484,7 @@ contact.line {
   display: inline-block;
   position: absolute;
   padding: 8px;
-  margin-top: 2400px;
+  margin-top: 2300px;
   margin-left: 50px;
   padding-right: 200px;
 }
@@ -495,7 +495,7 @@ contact.Mail {
   display: inline-block;
   position: absolute;
   padding: 8px;
-  margin-top: 2500px;
+  margin-top: 2400px;
   margin-left: 50px;
   padding-right: 58px;
 }
@@ -506,7 +506,7 @@ contact.Phone {
   display: inline-block;
   position: absolute;
   padding: 8px;
-  margin-top: 2600px;
+  margin-top: 2500px;
   margin-left: 50px;
   padding-right: 175px;
 }
@@ -517,7 +517,7 @@ contact.Facebook {
   display: inline-block;
   position: absolute;
   padding: 8px;
-  margin-top: 2700px;
+  margin-top: 2600px;
   margin-left: 50px;
   padding-right: 270px;
 }
