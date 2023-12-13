@@ -4,6 +4,11 @@
   /*	border: solid 1px black; */
 }
 
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body{
+  font-family: 'Noto Sans TC',sans-serif !important;
+}
+
 html, body {
   margin: 0;
   padding: 0;
@@ -41,7 +46,7 @@ html, body {
   transition-duration: 0.5s;
   -webkit-box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.3);
   box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.3);
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 25px;
   font-weight: bold;
   padding-top: 10px;
@@ -71,7 +76,7 @@ html, body {
   top: 300px;
   left: 500px;
   font-size: 40px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-weight: bold;
 }
 
@@ -180,14 +185,14 @@ dot {
 
 .who {
   position: absolute;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   color: #3B3C4B;
   font-size: 25px;
 }
 
 .smalltitle {
   position: absolute;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 28px;
   font-weight: normal;
   z-index: 2;
@@ -200,7 +205,7 @@ dot {
   display: inline-block;
   left: 280px;
   position: absolute;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 25px;
   color: #3B3C4B;
 }
@@ -211,7 +216,7 @@ dot {
   display: inline-block;
   position: absolute;
   padding: 8px;
-  font-family: myFirstFont;
+  font-family: Noto Sans TC;
   font-weight: bold;
   font-size: 25px;
   color: #3B3C4B;
@@ -280,7 +285,7 @@ dot.E {
 
 .subtitle {
   position: absolute;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 33px;
   font-weight: bold;
 }
@@ -289,7 +294,7 @@ dot.E {
   position: absolute;
   left: 26px;
   margin-top: 90px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 33px;
   font-weight: bold;
   border-bottom: solid 8px #4F5165;
@@ -300,7 +305,7 @@ dot.E {
   position: absolute;
   left: 26px;
   margin-top: 750px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 33px;
   font-weight: bold;
   border-bottom: solid 8px #4F5165;
@@ -310,7 +315,7 @@ dot.E {
 .smalltitle {
   position: relative;
   left: 300px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   color: #3B3C4B;
 }
 
@@ -408,7 +413,7 @@ dot.E {
   position: absolute;
   left: 26px;
   margin-top: 1450px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 33px;
   font-weight: bold;
   border-bottom: solid 8px #4F5165;
@@ -454,7 +459,7 @@ dot.E {
   position: absolute;
   left: 26px;
   margin-top: 2150px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 33px;
   font-weight: bold;
   border-bottom: solid 8px #4F5165;
@@ -465,7 +470,7 @@ dot.E {
   position: absolute;
   left: 26px;
   margin-top: 2900px;
-  font-family: 華康竹風體W4;
+  font-family: Noto Sans TC;
   font-size: 33px;
   font-weight: bold;
   border-bottom: solid 8px #4F5165;
