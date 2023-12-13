@@ -86,14 +86,14 @@ html, body {
   float: left;
 }
 
-a {
+a { <!--導覽列文字-->
   text-decoration: none;
   margin-left: 10x;
-  color: #343434;
+  color: #292D2D;
 }
 
 #changebutton1:hover, #changebutton2:hover, #changebutton3:hover, #changebutton4:hover, #changebutton5:hover {
-  color: #292D2D;
+  color: #A23355;
   transition-duration: 0.3s;
 }
 
