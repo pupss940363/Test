@@ -176,13 +176,6 @@ dot {
   display: inline-block;
   position: relative;
 }
-dot:hover {
-  background-color: #FFD23F;
-  height: 30px;
-  width: 30px;
-  transition-duration: 0.3s;
-  border-radius: 5px;
-}
 
 .who {
   position: absolute;
