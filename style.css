@@ -216,7 +216,7 @@ dot {
   position: absolute;
   padding: 8px;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 25px;
   color: #292D2D;
 }
@@ -286,7 +286,7 @@ dot.E {
   position: absolute;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
   font-size: 33px;
-  font-weight: bold;
+  font-weight: noraml;
 }
 
 .subA {
@@ -295,7 +295,7 @@ dot.E {
   margin-top: 90px;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
   font-size: 33px;
-  font-weight: bold;
+  font-weight: normal;
   border-bottom: solid 8px #4F5165;
   width: 245px;
 }
@@ -306,7 +306,7 @@ dot.E {
   margin-top: 750px;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
   font-size: 33px;
-  font-weight: bold;
+  font-weight: normal;
   border-bottom: solid 8px #4F5165;
   width: 245px;
 }
@@ -414,7 +414,7 @@ dot.E {
   margin-top: 1450px;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
   font-size: 33px;
-  font-weight: bold;
+  font-weight: normal;
   border-bottom: solid 8px #4F5165;
   width: 245px;
 }
@@ -460,7 +460,7 @@ dot.E {
   margin-top: 2150px;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
   font-size: 33px;
-  font-weight: bold;
+  font-weight: normal;
   border-bottom: solid 8px #4F5165;
   width: 245px;
 }
@@ -471,7 +471,7 @@ dot.E {
   margin-top: 2900px;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
   font-size: 33px;
-  font-weight: bold;
+  font-weight: normal;
   border-bottom: solid 8px #4F5165;
   width: 245px;
 }
