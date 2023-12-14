@@ -15,7 +15,6 @@ html, body {
   height: 100%;
   border: none;
   background-color: #A23355;
-  overflow-x:hidden;
 }
 
 .avbar-scroll.navbar-fixed-top {
