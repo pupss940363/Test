@@ -192,14 +192,7 @@ dot {
   font-size: 25px;
 }
 
-.smalltitle {
-  position: absolute;
-  font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
-  font-size: 28px;
-  font-weight: normal;
-  z-index: 2;
-  color: #292D2D;
-}
+
 
 .bgtime {
   width: 1000px;
@@ -315,10 +308,11 @@ dot.E {
 }
 
 .smalltitle {
-  position: relative;
-  left: 300px;
+  position: absolute;
   font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
-  color: #3B3C4B;
+  font-weight: normal;
+  z-index: 2;
+  color: #292D2D;
 }
 
 .sta {
