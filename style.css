@@ -184,25 +184,6 @@ dot {
   position: relative;
 }
 
-.who {
-  position: absolute;
-  font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
-  color: #292D2D;
-  font-size: 25px;
-}
-
-
-
-.bgtime {
-  width: 1000px;
-  border-radius: 10px;
-  display: inline-block;
-  left: 280px;
-  position: absolute;
-  font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
-  font-size: 25px;
-  color: #292D2D;
-}
 
 .contact {
   left: 400px;
@@ -306,103 +287,6 @@ dot.E {
   width: 245px;
 }
 
-.smalltitle {
-  position: absolute;
-  font-family:"Noto Sans TC","Helvetica", "Arial","微軟正黑體", sans-serif;
-  font-weight: normal;
-  z-index: 2;
-  color: #292D2D;
-}
-
-.sta {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 50px;
-  margin-top: 250px;
-}
-
-.stb {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 50px;
-  margin-top: 350px;
-}
-
-.stc {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 50px;
-  margin-top: 450px;
-}
-
-.std {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 50px;
-  margin-top: 550px;
-}
-
-.ste {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 50px;
-  margin-top: 650px;
-}
-
-.stf {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 550px;
-  margin-top: 250px;
-}
-
-.stg {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 550px;
-  margin-top: 350px;
-}
-
-.sth {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 550px;
-  margin-top: 450px;
-}
-
-.sti {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 550px;
-  margin-top: 550px;
-}
-
-.stj {
-  background-color: white;
-  border-radius: 6px;
-  padding: 3px;
-  position: absolute;
-  margin-left: 550px;
-  margin-top: 650px;
-}
 
 .subC {
   position: absolute;
