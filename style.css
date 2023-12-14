@@ -29,7 +29,7 @@ html, body {
   position: fixed;
   z-index: 3;
   border-radius: 0px;
-  background-color: transparent;
+  background-color: #DFD7D3;
   border-bottom: solid 3px #292D2D;
   color: white;
   display: -webkit-box;
@@ -52,6 +52,7 @@ html, body {
   padding-top: 10px;
   padding-right: 15px;
   padding-bottom: 10px;
+  
 }
 .navbar.active {
   background: #F0EFF4;
